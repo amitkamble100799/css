@@ -1,0 +1,33 @@
+#body{
+    font-size:large
+    
+}
+.heading2 {
+    color: red;
+    font-style: italic;
+}
+.mm {
+   
+    text-decoration-line: line-through;
+}
+.no2{
+    background-color: yellow;
+    text-decoration-line: none;
+   
+}
+.no3{
+    color:brown;
+}
+.no4{
+    text-decoration-line: underline;
+}
+.no5{
+    font-style: italic;
+    color:red;
+}
+.no6{
+    color: rgb(146, 84, 26);
+}
+.no7{
+    letter-spacing: 0.2em;
+}
